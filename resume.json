@@ -1,0 +1,70 @@
+{
+    "Name": "Swaroop Khadke",
+    "Contact Information": {
+      "Phone": "+91-8888453449",
+      "Location": "Pune, IN",
+      "Email": "swaroopkhadke512@gmail.com",
+      "LinkedIn": "https://www.linkedin.com/in/swaroop-khadke-10b961215/"
+    },
+    "Objective": "I am a dedicated final-year B.Tech Information Technology student with a robust foundation in programming and data analysis. Proficient in C++, Python, and Java, with a strong grasp of object-oriented programming in Java. I also have hands-on experience with HTML, CSS, SQL, MySQL, and PowerBI. I have a keen interest in data analysis drives. I am actively seeking internship and placement opportunities to apply my technical skills and analytical prowess in a dynamic and growth-oriented environment.",
+    "Education": [
+      {
+        "Degree": "Bachelor of Information Technology",
+        "Institution": "VIIT Pune",
+        "Expected Graduation": "2025",
+        "CGPA": "8.51"
+      },
+      {
+        "Degree": "HSC",
+        "Institution": "Vijaya Ratna Junior College",
+        "Year": "2019 - 2021",
+        "Percentage": "83.3"
+      }
+    ],
+    "Skills": {
+      "Programming Languages": ["C++", "Java"],
+      "Framework and Technologies": ["HTML", "CSS", "SQL", "MySQL", "Power BI"],
+      "Soft Skills": ["Leadership", "Public Speaking", "Team Work", "Team Management"]
+    },
+    "Experience": [
+      {
+        "Role": "Virtual Internship AI-ML",
+        "Company": "Google Developers",
+        "Duration": "Jan 2024 - March 2024",
+        "Organization": "Eduskills",
+        "Responsibilities": [
+          "Developed and implemented machine learning models to solve real-world problems, enhancing predictive accuracy and efficiency.",
+          "Collaborated with a team of developers to design and optimize algorithms, contributing to the overall project success."
+        ]
+      }
+    ],
+    "Projects": [
+      {
+        "Title": "Crop Prediction System By using Soil Moisture",
+        "Description": "Using ML algorithms like Gaussian Naive Bayes, KNN, Decision Tree, Random Forest development a system to recommend crop on basis of Moisture, Temperature, PH, Density and NPK. Also Published a Research Paper on it."
+      },
+      {
+        "Title": "Sales Report Dashboard using Power BI",
+        "Description": "In Dashboard analysis the data of sales on Monthly and Quarterly basis. Dashboard includes various KPIs like sum of profit, sum of quantity, sum of amount. Also gives analysis on payment mode by which product is purchased."
+      },
+      {
+        "Title": "Algorithm Visualizer",
+        "Description": "Allows users to visualize various algorithms step-by-step. Supported Algorithms includes a range of algorithms such as bubble sort, quick sort, Merge sort."
+      }
+    ],
+    "Extra-Curricular Activities": [
+      {
+        "Role": "NSS Vice President",
+        "Description": "Played a pivotal role in organizing and leading various community service initiatives. Coordinated volunteer activities, managed events, and fostered a spirit of social responsibility among students. Contributed to the success of numerous outreach programs, enhancing the institute’s impact on the local community."
+      },
+      {
+        "Role": "ITSF Event Head",
+        "Description": ""
+      }
+    ],
+    "Links": [
+      "https://www.linkedin.com/in/swaroop-khadke-10b961215/",
+      "https://www.linkedin.com/posts/swaroop-khadke-10b961215_powerbi-dataanalytics-dashboarding-activity-7180413236662444032-HkVz?utm_source=share&utm_medium=member_desktop"
+    ]
+  }
+  
